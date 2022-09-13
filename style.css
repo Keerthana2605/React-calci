@@ -1,0 +1,20 @@
+div {
+    padding: 10px;
+    border: 3px solid #f1f1f1;
+}
+
+.container {
+    padding: 6px;
+    width: 500px;
+    background-color: #ceb9b9
+}
+
+input[type=text],
+input[type=password] {
+    width: 30%;
+    padding: 6px 6px 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
